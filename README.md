@@ -1,4 +1,9 @@
 # Stock-Price-Prediction-with-LSTM
 Previsão de preço de ações utilizando LSTM (Long Short Term Memory Networks)
 
-<h3> a <h3>
+<h2> O que precisamos ter instalado <h2>
+  <p> aaa <p>
+
+<h3> 1 - Análise do preço das ações <h3>
+ 
+<h3> 2- <h3>

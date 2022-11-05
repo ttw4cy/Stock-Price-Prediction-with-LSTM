@@ -1,8 +1,8 @@
 # Stock-Price-Prediction-with-LSTM
 
 
-<h1> Previsão de preço de ações utilizando LSTM (Long Short Term Memory Networks) <h1>
-  <p> Projeto 100% baseado - https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/</p>
+## Previsão de preço de ações utilizando LSTM (Long Short Term Memory Networks)
+   Projeto 100% baseado - https://thecleverprogrammer.com/2022/01/03/stock-price-prediction-with-lstm/
 
 ## O que precisamos ter instalado 
         - pip install pandas

@@ -20,4 +20,7 @@
 
 ![Tesla Stock Price Analysis](https://i.imgur.com/x9ljlAs.png)
 
+
+![Amazon Stock Price Analysis](https://i.imgur.com/BZaFX5q.png)
+
 <h3> 2- <h3>

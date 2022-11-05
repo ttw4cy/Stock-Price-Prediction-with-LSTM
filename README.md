@@ -14,6 +14,6 @@
         - pip install sklearn
 
 ## 1 - Análise do preço das ações
-[aaa] (https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png)
+![aaa] (https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png)
  
 <h3> 2- <h3>

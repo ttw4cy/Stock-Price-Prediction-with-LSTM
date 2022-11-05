@@ -13,6 +13,7 @@
         - pip install numpy
         - pip install sklearn
 
-<h3> 1 - Análise do preço das ações <h3>
+## 1 - Análise do preço das ações
+[aaa] (https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png)
  
 <h3> 2- <h3>

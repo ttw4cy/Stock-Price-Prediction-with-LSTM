@@ -2,7 +2,7 @@
 Previsão de preço de ações utilizando LSTM (Long Short Term Memory Networks)
 
 <h2> O que precisamos ter instalado <h2>
-  aaa 
+  <p> aaa </p>
 
 <h3> 1 - Análise do preço das ações <h3>
  

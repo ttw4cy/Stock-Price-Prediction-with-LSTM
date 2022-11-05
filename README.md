@@ -23,4 +23,3 @@
 
 ![Amazon Stock Price Analysis](https://i.imgur.com/BZaFX5q.png)
 
-<h3> 2- <h3>

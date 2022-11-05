@@ -16,6 +16,6 @@
 ## 1 - Análise do preço das ações
 Apple Stock Price Analysis
 ![Apple Stock Price Analysis](https://imgur.com/VPT2BIy)
- 
+ [Imgur](https://i.imgur.com/VPT2BIy.png)
  <img alt="" title="" src="(https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png)">
 <h3> 2- <h3>

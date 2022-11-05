@@ -14,8 +14,10 @@
         - pip install sklearn
 
 ## 1 - Análise do preço das ações
-Apple Stock Price Analysis
 
 ![Apple Stock Price Analysis](https://i.imgur.com/VPT2BIy.png)
+
+
+![Tesla Stock Price Analysis](https://i.imgur.com/x9ljlAs.png)
 
 <h3> 2- <h3>

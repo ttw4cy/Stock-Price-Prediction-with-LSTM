@@ -14,8 +14,8 @@
         - pip install sklearn
 
 ## 1 - Análise do preço das ações
-![aaa] (https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png)
-[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png" alt="figma" height="20"> Figma.
+
+![alt text](https://s2.glbimg.com/LVKD6m6U72GMz6fyu6d0w4zW5AA=/0x0:695x379/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/O/m/DM4bQFSn2CWtvgANmcvQ/passo-1.jpg)
  
  <img alt="" title="" src="(https://assets.b9.com.br/wp-content/uploads/2018/02/Google-Imagens.png)">
 <h3> 2- <h3>
